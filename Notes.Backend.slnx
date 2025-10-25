@@ -1,0 +1,13 @@
+<Solution>
+  <Folder Name="/Core/">
+    <Project Path="Notes.Application/Notes.Application.csproj" Id="2c715355-496a-4b12-8a64-7b7957c3c2eb" />
+    <Project Path="Notes.Domain/Notes.Domain.csproj" Id="cdd8304a-87d0-46e1-9a57-279477a0ace9" />
+  </Folder>
+  <Folder Name="/Infrastructure/">
+    <Project Path="Notes.Persistance/Notes.Persistance.csproj" Id="69bf45ed-fed7-4a91-bea1-4e4659c9af57" />
+  </Folder>
+  <Folder Name="/Presentation/">
+    <Project Path="Notes.WebApi/Notes.WebApi.csproj" Id="9ef031f4-aa3b-4ff1-8032-37f85dabcbd9" />
+  </Folder>
+  <Folder Name="/Tests/" />
+</Solution>
